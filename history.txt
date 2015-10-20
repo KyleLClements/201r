@@ -1,0 +1,50 @@
+    1  ls
+    2  cd Web
+    3  git init
+    4  git add .
+    5  git commit -m "CS201r"
+    6  git config --global user.email "kylelclements@gmail.com"
+    7  git config --global user.name "Kyle Clements"
+    8  git commit -m "CS201r"
+    9  git remote add origin https://github.com/KyleLClements/cs201r.git
+   10  git push -u origin master
+   11  ls
+   12  cd javascript
+   13  ls
+   14  git add .
+   15  git status
+   16  git commit -m "something"
+   17  git push -u origin master
+   18  history
+   19  history >HOWTO
+   20  ls
+   21  cd Web
+   22  cd javascript
+   23  ls
+   24  git init
+   25  git add .
+   26  git status
+   27  git commit -m "something"
+   28  git push -u origin master
+   29  KyleLClements
+   30  git push -u origin master
+   31  cd node
+   32  ls
+   33  cd Web
+   34  ls
+   35  cd 201r
+   36  ls
+   37  cat
+   38  ls
+   39  cd Web
+   40  cd 201r
+   41  ls
+   42  node simple.js
+   43  j
+   44  node simple.js
+   45  node -v
+   46  node simple.js
+   47  pwd
+   48  nodejs simple.js
+   49  node simple.js
+   50  history>history.txt
