@@ -3,8 +3,9 @@
  */
 var pokemon = [
   {
-    name: 'Pikachu',
-    avatarUrl: 'http://rs795.pbsrc.com/albums/yy232/PixKaruumi/Pokemon%20Pixels/Pikachu_Icon__free__by_Aminako.gif~c200'
+    name: 'President Monson',
+    //avatarUrl: 'http://rs795.pbsrc.com/albums/yy232/PixKaruumi/Pokemon%20Pixels/Pikachu_Icon__free__by_Aminako.gif~c200'
+    avatarUrl: 'https://www.lds.org/bc/content/shared/content/images/leaders/thomas-s-monson.jpg?lang=eng'
   },
   {
     name: 'Charmander',
