@@ -1,7 +1,7 @@
 var fs = require('fs');
 var http = require('http');
 var url = require('url');
-var ROOT_DIR = "/home/kylelclements/Web/201r/nodelab/html";
+var ROOT_DIR = "html";
 http.createServer(function (req, res) {
   var urlObj = url.parse(req.url, true, false);
   console.log("opening "+ROOT_DIR+urlObj.pathname);
@@ -40,4 +40,4 @@ http.createServer(function (req, res) {
         res.end(data);
       
   });}
-}).listen(8124);
+}).listen(3000);

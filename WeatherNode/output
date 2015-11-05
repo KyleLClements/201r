@@ -1,0 +1,239 @@
+nohup: ignoring input
+opening html/v10.html
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/v10.html',
+  path: '/v10.html',
+  href: '/v10.html' }
+opening html/app.js
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/app.js',
+  path: '/app.js',
+  href: '/app.js' }
+opening html/v10.html
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/v10.html',
+  path: '/v10.html',
+  href: '/v10.html' }
+opening html/app.js
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/app.js',
+  path: '/app.js',
+  href: '/app.js' }
+opening html/
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/',
+  path: '/',
+  href: '/' }
+opening html/robots.txt
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/robots.txt',
+  path: '/robots.txt',
+  href: '/robots.txt' }
+opening html/sitemap.xml
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/sitemap.xml',
+  path: '/sitemap.xml',
+  href: '/sitemap.xml' }
+opening html/comment
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/comment',
+  path: '/comment',
+  href: '/comment' }
+opening html/index.html
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/index.html',
+  path: '/index.html',
+  href: '/index.html' }
+opening html/favicon.ico
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico' }
+opening html/pokemon/frontend/index.html
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/pokemon/frontend/index.html',
+  path: '/pokemon/frontend/index.html',
+  href: '/pokemon/frontend/index.html' }
+opening html/pokemon/frontend/index.html
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/pokemon/frontend/index.html',
+  path: '/pokemon/frontend/index.html',
+  href: '/pokemon/frontend/index.html' }
+opening html/
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/',
+  path: '/',
+  href: '/' }
+opening html/robots.txt
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/robots.txt',
+  path: '/robots.txt',
+  href: '/robots.txt' }
+opening html/sitemap.xml
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/sitemap.xml',
+  path: '/sitemap.xml',
+  href: '/sitemap.xml' }
+opening html/
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/',
+  path: '/',
+  href: '/' }
+opening html/comments
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '',
+  query: {},
+  pathname: '/comments',
+  path: '/comments',
+  href: '/comments' }
