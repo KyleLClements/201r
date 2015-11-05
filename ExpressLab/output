@@ -1,0 +1,9 @@
+nohup: ignoring input
+Thu, 05 Nov 2015 23:07:59 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at serv.js:8:9
+Thu, 05 Nov 2015 23:07:59 GMT body-parser deprecated undefined extended: provide extended option at ../node_modules/body-parser/index.js:105:29
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
+In getcity route
